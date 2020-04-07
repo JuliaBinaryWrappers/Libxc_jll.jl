@@ -17,7 +17,7 @@ libxc_path = ""
 libxc_handle = C_NULL
 
 # This must be `const` so that we can use it with `ccall()`
-const libxc = "libxc.so.5"
+const libxc = "libxc.so.9"
 
 
 """
