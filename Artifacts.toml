@@ -1,115 +1,115 @@
 [[Libxc]]
 arch = "aarch64"
-git-tree-sha1 = "ebd87c44aedcf15ecce800b8ccf80153a180d4b9"
+git-tree-sha1 = "ef5ce03e57baa11de2fc5767707b1a10b4d5ba22"
 libc = "glibc"
 os = "linux"
 
     [[Libxc.download]]
-    sha256 = "41732a93ad460627aa060e1350eb9cbd39cb8f681203e80e4fb2a459491681e2"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v5.1.3+0/Libxc.v5.1.3.aarch64-linux-gnu.tar.gz"
+    sha256 = "d5799bece763d67711be22ad66a1efd1e4be564d1407cfa51054b3b814e624c5"
+    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v5.1.5+0/Libxc.v5.1.5.aarch64-linux-gnu.tar.gz"
 [[Libxc]]
 arch = "aarch64"
-git-tree-sha1 = "da08aed5cace3ffaf1fcff8b97a39c4421b45321"
+git-tree-sha1 = "f6d7ed1a227a0f5a82279a2b4d9d926b240fd99f"
 libc = "musl"
 os = "linux"
 
     [[Libxc.download]]
-    sha256 = "02a557a11f9166991119a3ae51875599ad6c35bc46ddd4c00cf9e47dec26fea7"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v5.1.3+0/Libxc.v5.1.3.aarch64-linux-musl.tar.gz"
+    sha256 = "852ff5b7317c6d17b90bb5a01559e3da7cd2f8faf653c731539f424d37729968"
+    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v5.1.5+0/Libxc.v5.1.5.aarch64-linux-musl.tar.gz"
 [[Libxc]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "df97b6a4ad08ce665fd4486ed3de3ca576061797"
+git-tree-sha1 = "76771eababaad0579970fa2528ec19fcf6b17ed5"
 libc = "glibc"
 os = "linux"
 
     [[Libxc.download]]
-    sha256 = "d711989c250d5f99ff84b74f0ae3347e5dc592dff73cc820754e4ad527a97518"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v5.1.3+0/Libxc.v5.1.3.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "50e490058f9ddb4a90647791666eadb2e988fa79308d37fcfea92c5e8f0d5e0e"
+    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v5.1.5+0/Libxc.v5.1.5.armv7l-linux-gnueabihf.tar.gz"
 [[Libxc]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "8fa1f1c394ee34f2abc98b94b68aa876645f5742"
+git-tree-sha1 = "c18a7ddf5b42a7fdb438cd9da7c8581f7327c380"
 libc = "musl"
 os = "linux"
 
     [[Libxc.download]]
-    sha256 = "c7a03933a15ce43eb093ba45eff52016e523f8d96cdf2ba8f0b5f3d778bf5d88"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v5.1.3+0/Libxc.v5.1.3.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "d9021893b81b5dbd60d9c3daa44a27a813786cfadb68417efe5701f8d0accb6c"
+    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v5.1.5+0/Libxc.v5.1.5.armv7l-linux-musleabihf.tar.gz"
 [[Libxc]]
 arch = "i686"
-git-tree-sha1 = "833ba48f575ca79d31a1b002fbbe6e2dbf751fd1"
+git-tree-sha1 = "4f10aedbfae6ff2be706e00c0a7d2abfdff8458c"
 libc = "glibc"
 os = "linux"
 
     [[Libxc.download]]
-    sha256 = "8ede7f36938a4b9dcd0c9b624b07544935a48847182d3a6b8fbaab6d0e9598ab"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v5.1.3+0/Libxc.v5.1.3.i686-linux-gnu.tar.gz"
+    sha256 = "00e327b6597487405cfebed361e0a493c58d0847ecb97a6c2ecd2e04818a2049"
+    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v5.1.5+0/Libxc.v5.1.5.i686-linux-gnu.tar.gz"
 [[Libxc]]
 arch = "i686"
-git-tree-sha1 = "366ae34adc400d116769ca22c91655ae061c5e63"
+git-tree-sha1 = "40a55fc7c08d7fe859c989057a54774e80a7f050"
 libc = "musl"
 os = "linux"
 
     [[Libxc.download]]
-    sha256 = "992fc31f26e18b3d72436734252b751a71d7c6256433b3164826225c87ac67f2"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v5.1.3+0/Libxc.v5.1.3.i686-linux-musl.tar.gz"
+    sha256 = "60843716c5e1bd36bfbdeb6b60a2fb69dc8d848adea86b905f3f374e551f9958"
+    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v5.1.5+0/Libxc.v5.1.5.i686-linux-musl.tar.gz"
 [[Libxc]]
 arch = "i686"
-git-tree-sha1 = "f95c4b6f1955305db8dfde0b915695c6f7007f24"
+git-tree-sha1 = "52f34de0be20547443d886232dfdee6a114ee9fe"
 os = "windows"
 
     [[Libxc.download]]
-    sha256 = "35dab4856c0bb8d2f1722011e220482a5e6aa721591e254de1cccde743150a42"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v5.1.3+0/Libxc.v5.1.3.i686-w64-mingw32.tar.gz"
+    sha256 = "8418506c851026c5a1f31090c2b31596bb4c7b750a33190e0306f26053717c37"
+    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v5.1.5+0/Libxc.v5.1.5.i686-w64-mingw32.tar.gz"
 [[Libxc]]
 arch = "powerpc64le"
-git-tree-sha1 = "34f3868f2be6938f6df44065fd923dcacf5b594c"
+git-tree-sha1 = "fcb15e30e35e8fbddabcaef31644e472413dc0a0"
 libc = "glibc"
 os = "linux"
 
     [[Libxc.download]]
-    sha256 = "277025388e24f0cb9362eb13b528ce16fb34e285323a0849fd743f572515d0eb"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v5.1.3+0/Libxc.v5.1.3.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "4ba34c805f9998c6bc3466e504afd521edf1663e3f58e4d938e8bdd4b2f2619e"
+    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v5.1.5+0/Libxc.v5.1.5.powerpc64le-linux-gnu.tar.gz"
 [[Libxc]]
 arch = "x86_64"
-git-tree-sha1 = "7a7d632421b4fcc9263ac8104b10bd7422ba6495"
+git-tree-sha1 = "7d702d4f306f67bddf60868ef4b4e086ae86601e"
 os = "macos"
 
     [[Libxc.download]]
-    sha256 = "972e66fa1f2e6bfe22476e65dd7e52a6cc03a04be2e87126ca97ecf75c646e92"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v5.1.3+0/Libxc.v5.1.3.x86_64-apple-darwin.tar.gz"
+    sha256 = "e9c1893ab98b1bd03cec5062a1f2ba8de85fb80845e3ae34d7ce4813325daffe"
+    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v5.1.5+0/Libxc.v5.1.5.x86_64-apple-darwin.tar.gz"
 [[Libxc]]
 arch = "x86_64"
-git-tree-sha1 = "695e6dbba28f3322f62e2c2f2633e21f0709b72b"
+git-tree-sha1 = "1963ebebd3e6f9546929728c8304063e8782f69e"
 libc = "glibc"
 os = "linux"
 
     [[Libxc.download]]
-    sha256 = "5724892ec0e63fa8f97fef344f3f1290ce44eb77e345c9ca4d42376d8debb3e0"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v5.1.3+0/Libxc.v5.1.3.x86_64-linux-gnu.tar.gz"
+    sha256 = "dc7209effe3e26bfe9d64a4935c1bf217a9597bf03b8b79b7f864bb938b814d3"
+    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v5.1.5+0/Libxc.v5.1.5.x86_64-linux-gnu.tar.gz"
 [[Libxc]]
 arch = "x86_64"
-git-tree-sha1 = "3069371f6ffe45d8386d8adc2e42f844576ac1ad"
+git-tree-sha1 = "524565507bd04270c53c953a0a17fb2b625c515c"
 libc = "musl"
 os = "linux"
 
     [[Libxc.download]]
-    sha256 = "754ea5e328a8a95f00b180b38d71b6347aa1eae944508c360a46bdb54cbd2af5"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v5.1.3+0/Libxc.v5.1.3.x86_64-linux-musl.tar.gz"
+    sha256 = "92304d155cc8d2dd42f7c11509980fbc9b3c1eaa10bd2a89a9e92cb4411690fc"
+    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v5.1.5+0/Libxc.v5.1.5.x86_64-linux-musl.tar.gz"
 [[Libxc]]
 arch = "x86_64"
-git-tree-sha1 = "2431e8eefc0b3d8d7108b162aab4fc99d35dacc2"
+git-tree-sha1 = "e1756989aafd3c1d9b52615e529437a3d395eea1"
 os = "freebsd"
 
     [[Libxc.download]]
-    sha256 = "8ff9f9dbc9b3551db29a6cbcde657bb6f4c1fa9ea941504b09a9a59e8e5c8a63"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v5.1.3+0/Libxc.v5.1.3.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "c3d536b4360521c79a51d330a8c543ce4b4f62f4a1ca6f6c56452ed84cc25132"
+    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v5.1.5+0/Libxc.v5.1.5.x86_64-unknown-freebsd.tar.gz"
 [[Libxc]]
 arch = "x86_64"
-git-tree-sha1 = "fd5afa3e3cd90be7903646188a204835c3f2f3cb"
+git-tree-sha1 = "5ede4c8103813cc4eca4ddda2fc527314c961272"
 os = "windows"
 
     [[Libxc.download]]
-    sha256 = "a05218ee06f13ad7a6705f4573fe907895e25b93e0d234318f8fe2dc578a46d7"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v5.1.3+0/Libxc.v5.1.3.x86_64-w64-mingw32.tar.gz"
+    sha256 = "59bed0e2059596e33df5a6c55a7f51dd807c8649acfa1f7cb1287e82229e85c0"
+    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v5.1.5+0/Libxc.v5.1.5.x86_64-w64-mingw32.tar.gz"
