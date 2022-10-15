@@ -3,7 +3,7 @@ export libxc
 
 using CompilerSupportLibraries_jll
 JLLWrappers.@generate_wrapper_header("Libxc")
-JLLWrappers.@declare_library_product(libxc, "libxc.so.9")
+JLLWrappers.@declare_library_product(libxc, "libxc.so.12")
 function __init__()
     JLLWrappers.@generate_init_header(CompilerSupportLibraries_jll)
     JLLWrappers.@init_library_product(
