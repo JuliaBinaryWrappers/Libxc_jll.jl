@@ -1,459 +1,143 @@
 [[Libxc]]
 arch = "aarch64"
-git-tree-sha1 = "9440928f5b9734fc4c8e898b331261f7f97aa16e"
-libgfortran_version = "5.0.0"
+git-tree-sha1 = "e9ef5b0391385725725cd970364ab05dfa8d8d22"
 os = "macos"
 
     [[Libxc.download]]
-    sha256 = "1559822ec2d25612249870e12eaeabb782a2c49e2ad850498b0ea4b0a25cae71"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+0/Libxc.v6.0.0.aarch64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "eabd0d2f408d2ab309a66473838011e40f421c66cc529a09fca34350cb75832f"
+    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+1/Libxc.v6.0.0.aarch64-apple-darwin.tar.gz"
 [[Libxc]]
 arch = "aarch64"
-git-tree-sha1 = "b1fa48665f9508d0288ad3d972b219e24e949cea"
+git-tree-sha1 = "66adc5baff997f95725d997898cc7a4ab136b379"
 libc = "glibc"
-libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Libxc.download]]
-    sha256 = "cb0477faed116db1b96cefa4731c4863bb879a98ec1912b11d500c143bada2c5"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+0/Libxc.v6.0.0.aarch64-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "87e51467d68f5a3739f19292a987e8423569c8001afeed9527bf41ffe5650372"
+    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+1/Libxc.v6.0.0.aarch64-linux-gnu.tar.gz"
 [[Libxc]]
 arch = "aarch64"
-git-tree-sha1 = "1886243d8abb7f7edd6dc4b7fa0a603c66e7f278"
-libc = "glibc"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[Libxc.download]]
-    sha256 = "9fba2ffc71c904c7b3848c3e66d8e898b0b4b2a12de30f4c722ee8d10beeb530"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+0/Libxc.v6.0.0.aarch64-linux-gnu-libgfortran4.tar.gz"
-[[Libxc]]
-arch = "aarch64"
-git-tree-sha1 = "e159fceda97c2b179040184431c30fbb98d28412"
-libc = "glibc"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[Libxc.download]]
-    sha256 = "7299cb4ffd1c3930f0f6da13cfed43153cd378ac81005fb7a69ad73a4e04a10d"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+0/Libxc.v6.0.0.aarch64-linux-gnu-libgfortran5.tar.gz"
-[[Libxc]]
-arch = "aarch64"
-git-tree-sha1 = "954d67704c5b076ab93281ae11a7627a9337e8ad"
+git-tree-sha1 = "34df440c1e34405c58285f50ba09945e41f01924"
 libc = "musl"
-libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Libxc.download]]
-    sha256 = "115186bff3248a15ab339505a510eaae230c777cbd8d6885d9a196c8970b430c"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+0/Libxc.v6.0.0.aarch64-linux-musl-libgfortran3.tar.gz"
-[[Libxc]]
-arch = "aarch64"
-git-tree-sha1 = "3668e3e1e7c01c637f6eb80fe4b88b07e7e694bf"
-libc = "musl"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[Libxc.download]]
-    sha256 = "2e8ee63dc35fde0e2d686e47ee737c01e7c318198ea9a317941c877c21db3cb3"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+0/Libxc.v6.0.0.aarch64-linux-musl-libgfortran4.tar.gz"
-[[Libxc]]
-arch = "aarch64"
-git-tree-sha1 = "ced50dc685b2add842b6b0935c664195acedc38c"
-libc = "musl"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[Libxc.download]]
-    sha256 = "a8efbaefb6c79c2e2dd0f994b6ac99e20384c4689c1e553242fde760572ccba2"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+0/Libxc.v6.0.0.aarch64-linux-musl-libgfortran5.tar.gz"
+    sha256 = "94526d26f2317817500513c2c06745c708c2ac5d7c6335421cc88f310eb493d9"
+    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+1/Libxc.v6.0.0.aarch64-linux-musl.tar.gz"
 [[Libxc]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "8a261c6f0d46630d673f641e98be97e984ef1de0"
+git-tree-sha1 = "2a22c9a0392eb78eb16c9001bf06b34987de21f1"
 libc = "glibc"
-libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Libxc.download]]
-    sha256 = "a5dffb48f01f35e37b581baad8d289a9c20c1781525321a9f668ec098aab046e"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+0/Libxc.v6.0.0.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
+    sha256 = "9fc02725697e30b06221879854b840fde7edb56f7d2f1d9d3a5312cfb4f53725"
+    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+1/Libxc.v6.0.0.armv6l-linux-gnueabihf.tar.gz"
 [[Libxc]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "63e75f73888d060b848a425703de0820bc83777c"
-libc = "glibc"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[Libxc.download]]
-    sha256 = "407487db0df436a311fa1974c6f896cfaee5fa3fb96319f8d7dfb4132205e1e6"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+0/Libxc.v6.0.0.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
-[[Libxc]]
-arch = "armv6l"
-call_abi = "eabihf"
-git-tree-sha1 = "d2069dc89b13f757e8204ecb095f0f27cfb951e9"
-libc = "glibc"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[Libxc.download]]
-    sha256 = "6271150735857ae7016348ee6808f39b542ab57ad9d52eff4ae97dd34e432aa4"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+0/Libxc.v6.0.0.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
-[[Libxc]]
-arch = "armv6l"
-call_abi = "eabihf"
-git-tree-sha1 = "ee0fd1d834796eb0b5cdfd27e17d8687c2778bf1"
+git-tree-sha1 = "32b434d60886abfa7eca9fbaa15c2669053f2c56"
 libc = "musl"
-libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Libxc.download]]
-    sha256 = "54b69fcd795d91d0209326213d4423eda01620563b2b4ae566c71e94a456459c"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+0/Libxc.v6.0.0.armv6l-linux-musleabihf-libgfortran3.tar.gz"
-[[Libxc]]
-arch = "armv6l"
-call_abi = "eabihf"
-git-tree-sha1 = "c1bbdd8c50c8504578e9dad49a59647d325953af"
-libc = "musl"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[Libxc.download]]
-    sha256 = "fc3b0aeb9ed878ab41b7e00bec60f0f9219b470f31c97a27c4386978a765907e"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+0/Libxc.v6.0.0.armv6l-linux-musleabihf-libgfortran4.tar.gz"
-[[Libxc]]
-arch = "armv6l"
-call_abi = "eabihf"
-git-tree-sha1 = "6026bfc6fef9ec06e4ebcca715786dcabe6e0588"
-libc = "musl"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[Libxc.download]]
-    sha256 = "7c5bd1ca9d482df2f9460235bacd25898be8d49371afd41c516750c43025e352"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+0/Libxc.v6.0.0.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+    sha256 = "65088f36b34f9f8f6bc3afd42b41cf4b4420a50d27fa27ffad52e8327ca1f915"
+    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+1/Libxc.v6.0.0.armv6l-linux-musleabihf.tar.gz"
 [[Libxc]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "c03200939ec389c5997f3a2e51ccc2a9958fa009"
+git-tree-sha1 = "7c86d601f60e92570e44b05a0c0f4fe4e3ebed5e"
 libc = "glibc"
-libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Libxc.download]]
-    sha256 = "8e09a7cbfec6fbba8da471da8867a4f9c47656bf2c3daf8d66d540b12272c0f5"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+0/Libxc.v6.0.0.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+    sha256 = "5c077d80624f3a60878b9fd6424d8efc660ea0c72b94986445bd608b5a5fc9ce"
+    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+1/Libxc.v6.0.0.armv7l-linux-gnueabihf.tar.gz"
 [[Libxc]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "2c45391b719e5517afa26430907eb3e642d518e6"
+git-tree-sha1 = "1702fd33b4809fd9db6b3fe9a889b1f55f5beed2"
+libc = "musl"
+os = "linux"
+
+    [[Libxc.download]]
+    sha256 = "4eb3a18bf9972b31efab3c0af5709d784738e842a7122596e399f54610425d72"
+    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+1/Libxc.v6.0.0.armv7l-linux-musleabihf.tar.gz"
+[[Libxc]]
+arch = "i686"
+git-tree-sha1 = "ff989146ab5fdc6cc333af1fb047c8ca9744b776"
 libc = "glibc"
-libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Libxc.download]]
-    sha256 = "2a170b08cb1685f61dae105b1fba9324b6baf5bf91b70b958541bf0b770547c7"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+0/Libxc.v6.0.0.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+    sha256 = "58351510de69082569f90603afb0bfc5bc00f02484703c1d571fc7db80b29388"
+    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+1/Libxc.v6.0.0.i686-linux-gnu.tar.gz"
 [[Libxc]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "a8a1267eb3ed6128ee30b7aac9ed29e8df66dc03"
-libc = "glibc"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[Libxc.download]]
-    sha256 = "f4973ee7d6847df01a01274e51f3c5529c8f0ea3e62c278b54b123684c47d502"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+0/Libxc.v6.0.0.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
-[[Libxc]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "adf837e06bcaa3e945e9801938d05c901e6a37d6"
+arch = "i686"
+git-tree-sha1 = "1d58d3abff75e2e194f73901deb3f7a449f59d85"
 libc = "musl"
-libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Libxc.download]]
-    sha256 = "158440b740ce07c756f941388d6e0e9178c69f692d733aff2bfde1e1d339791a"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+0/Libxc.v6.0.0.armv7l-linux-musleabihf-libgfortran3.tar.gz"
-[[Libxc]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "50771cb96b43dea1d650e6d0d34c15becb8eac04"
-libc = "musl"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[Libxc.download]]
-    sha256 = "09280a5c17bca12846e6a7dd0ec6cd60f1e544fa152d9ab601b3f6594e8d011f"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+0/Libxc.v6.0.0.armv7l-linux-musleabihf-libgfortran4.tar.gz"
-[[Libxc]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "621b35e3cc0667890d00b44a1472825fb15b75ee"
-libc = "musl"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[Libxc.download]]
-    sha256 = "e489ba6eb1475e1e510e07fab234ebbd3a2befff62e323bc9bb80836ce97f647"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+0/Libxc.v6.0.0.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+    sha256 = "c28b8a4118a38a39edbaf313e93ec3284965d667982e88ef10c983ecb21613ca"
+    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+1/Libxc.v6.0.0.i686-linux-musl.tar.gz"
 [[Libxc]]
 arch = "i686"
-git-tree-sha1 = "fd15dbb93cb3be2552d20217dc5607eab8a77474"
-libc = "glibc"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[Libxc.download]]
-    sha256 = "6a5e299bf5a8559396ff2374c15896b927a6bd8bf738f1cade3c2e5e6d35fbbb"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+0/Libxc.v6.0.0.i686-linux-gnu-libgfortran3.tar.gz"
-[[Libxc]]
-arch = "i686"
-git-tree-sha1 = "ec3936488c0dde71c6d91cdf97430ece966f0563"
-libc = "glibc"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[Libxc.download]]
-    sha256 = "d824dc434028b41f095ec0d221025049a3781bce4ed9df08fc45c40163808718"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+0/Libxc.v6.0.0.i686-linux-gnu-libgfortran4.tar.gz"
-[[Libxc]]
-arch = "i686"
-git-tree-sha1 = "d5936b92e36b3adda291ee08199628989ff73fcb"
-libc = "glibc"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[Libxc.download]]
-    sha256 = "2c8827623b40d84b8aaa3e4dd81da063590eef19568a25ea49576dacf1c96177"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+0/Libxc.v6.0.0.i686-linux-gnu-libgfortran5.tar.gz"
-[[Libxc]]
-arch = "i686"
-git-tree-sha1 = "a94f984ad2d5e4ef7c54da18bba22d9aaa87705d"
-libc = "musl"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[Libxc.download]]
-    sha256 = "084ae27c7c24babbf39181872abc255afe2fa91537339681370b87e922ea3eb3"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+0/Libxc.v6.0.0.i686-linux-musl-libgfortran3.tar.gz"
-[[Libxc]]
-arch = "i686"
-git-tree-sha1 = "6d543794bb5e85c3968b0bf1ebe16b77ed0e8187"
-libc = "musl"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[Libxc.download]]
-    sha256 = "8a29b4079b149782bebc72d36cbd78cb78669b713f4a310bd24ca5b22a00eb46"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+0/Libxc.v6.0.0.i686-linux-musl-libgfortran4.tar.gz"
-[[Libxc]]
-arch = "i686"
-git-tree-sha1 = "5530872c18db2f359d8dec313192e91d24af5aa2"
-libc = "musl"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[Libxc.download]]
-    sha256 = "6aa1c7a3b2806cc305c642ff3531eefd52fc5a67e1d151203a624a5c1971caf1"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+0/Libxc.v6.0.0.i686-linux-musl-libgfortran5.tar.gz"
-[[Libxc]]
-arch = "i686"
-git-tree-sha1 = "60230fdc0f8fea62d32dc637c304b032a4eadaf0"
-libgfortran_version = "3.0.0"
+git-tree-sha1 = "2159bdcd83b8d4700c9e8775a450901599904336"
 os = "windows"
 
     [[Libxc.download]]
-    sha256 = "79e9288d0ab9e99c2bea891e03f4d4105dd9cb7336b6e380cd94c3fab711230e"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+0/Libxc.v6.0.0.i686-w64-mingw32-libgfortran3.tar.gz"
-[[Libxc]]
-arch = "i686"
-git-tree-sha1 = "8a190dcc32974ecdec7ef46513d715a47d5a483e"
-libgfortran_version = "4.0.0"
-os = "windows"
-
-    [[Libxc.download]]
-    sha256 = "e06ad679d1749a21b2f7afe91fa977eb848cc0e102c54297b785bd3b7175389a"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+0/Libxc.v6.0.0.i686-w64-mingw32-libgfortran4.tar.gz"
-[[Libxc]]
-arch = "i686"
-git-tree-sha1 = "19534d0a14e1064e27c01c177515b26d24a1b3ee"
-libgfortran_version = "5.0.0"
-os = "windows"
-
-    [[Libxc.download]]
-    sha256 = "fa7916769d2911cefc6e25ac6c9ee08af1a960c96ec56bec9d2c168f3d114bc1"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+0/Libxc.v6.0.0.i686-w64-mingw32-libgfortran5.tar.gz"
+    sha256 = "e067500975a8d60d787dffbf24955c913d03e21c7d244ef553a5580c1945f740"
+    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+1/Libxc.v6.0.0.i686-w64-mingw32.tar.gz"
 [[Libxc]]
 arch = "powerpc64le"
-git-tree-sha1 = "e7a54acdd8b9d395b15fbb113bbc0ca173655d74"
+git-tree-sha1 = "5a89ee4f00d9b3827a01574050b6f8a168b14299"
 libc = "glibc"
-libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Libxc.download]]
-    sha256 = "cacec812e68d73cce38f2d8a860a7a9f3f18279624b493dbc6e7094725741e78"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+0/Libxc.v6.0.0.powerpc64le-linux-gnu-libgfortran3.tar.gz"
-[[Libxc]]
-arch = "powerpc64le"
-git-tree-sha1 = "4514d3a873e43b7e5c1e9f84a37f097bbcc6d31a"
-libc = "glibc"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[Libxc.download]]
-    sha256 = "1dfdb14b85f5bc1473f3f4b288b27775a7638ada3a13d0a85fd9bfe361ad7df5"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+0/Libxc.v6.0.0.powerpc64le-linux-gnu-libgfortran4.tar.gz"
-[[Libxc]]
-arch = "powerpc64le"
-git-tree-sha1 = "2f345a81e92f0d0a291e55ffdb188b69696578ad"
-libc = "glibc"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[Libxc.download]]
-    sha256 = "610077d16ce6672fab5c9a67519e10e5ecdf120883d061b435aec2cf59450e07"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+0/Libxc.v6.0.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "7f21f3826c797556f10c8273ca1dea53832abc51bc3edd82f6954e74ac6dfddc"
+    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+1/Libxc.v6.0.0.powerpc64le-linux-gnu.tar.gz"
 [[Libxc]]
 arch = "x86_64"
-git-tree-sha1 = "c892da388f74f66d4020556cadf2a002c5f64a62"
-libgfortran_version = "3.0.0"
+git-tree-sha1 = "ba3e9ca741ab4e3814bc35d627351a01cff2fda5"
 os = "macos"
 
     [[Libxc.download]]
-    sha256 = "73fa42e9284ae7d77274b66ab14903b1fd8a32e3c397149293920363c272c334"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+0/Libxc.v6.0.0.x86_64-apple-darwin-libgfortran3.tar.gz"
+    sha256 = "69ff3b091aae9b23de4158b802d844e3f579126d0b347d8beab211c307778f26"
+    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+1/Libxc.v6.0.0.x86_64-apple-darwin.tar.gz"
 [[Libxc]]
 arch = "x86_64"
-git-tree-sha1 = "cde379f415f8825e8b80a57b4db30aa66a285154"
-libgfortran_version = "4.0.0"
-os = "macos"
-
-    [[Libxc.download]]
-    sha256 = "512197ee1a5d9d4cc4018d37060b63b2b8a6c6f8830365b70a9c71cfb7f8369d"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+0/Libxc.v6.0.0.x86_64-apple-darwin-libgfortran4.tar.gz"
-[[Libxc]]
-arch = "x86_64"
-git-tree-sha1 = "ecd1304868786e50f2305ebf2650934ec61baba7"
-libgfortran_version = "5.0.0"
-os = "macos"
-
-    [[Libxc.download]]
-    sha256 = "05d262ccf3a8a0721a78a690964d96d3a640a4450b27a30cf68b1037cb77482e"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+0/Libxc.v6.0.0.x86_64-apple-darwin-libgfortran5.tar.gz"
-[[Libxc]]
-arch = "x86_64"
-git-tree-sha1 = "f509ed877203b19bb74d10a5abc0f9c3b4ab0ac8"
+git-tree-sha1 = "eb89c8a78aa5acaeed955188e158912b1e213879"
 libc = "glibc"
-libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Libxc.download]]
-    sha256 = "fb21af3f170a643c0592c2dedb13a4e80df5d0b1f99217be8ceacefca7d4a8c3"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+0/Libxc.v6.0.0.x86_64-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "4f4244b19d7f4e0ed1661d0e9c90c41ce766fe8fe480eaecf7bc7b118ba083d1"
+    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+1/Libxc.v6.0.0.x86_64-linux-gnu.tar.gz"
 [[Libxc]]
 arch = "x86_64"
-git-tree-sha1 = "d3dea4161157f8ca926548a2ae57457fd6fa6d9c"
-libc = "glibc"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[Libxc.download]]
-    sha256 = "4f3279db98967b6a9297a218b6897ff937f46a90ae6fc5cc1a47ddbe0e647b2a"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+0/Libxc.v6.0.0.x86_64-linux-gnu-libgfortran4.tar.gz"
-[[Libxc]]
-arch = "x86_64"
-git-tree-sha1 = "b5498a6a225e0aeb659c060e3ab2cc9e2c359548"
-libc = "glibc"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[Libxc.download]]
-    sha256 = "2ad05b918212ce279d55da9161d2cfbfed6e92e544d3754ee5c80e585f44a8c7"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+0/Libxc.v6.0.0.x86_64-linux-gnu-libgfortran5.tar.gz"
-[[Libxc]]
-arch = "x86_64"
-git-tree-sha1 = "56eb373ecec2aaaf52cf145e0e1eb8b8513f3479"
+git-tree-sha1 = "b00356446e2b11cb4673036a6f719baf3e8e9fea"
 libc = "musl"
-libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Libxc.download]]
-    sha256 = "a4f3509b66011ec2429de659ef706f653721eaa5e27c0177160571d22b68c2d6"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+0/Libxc.v6.0.0.x86_64-linux-musl-libgfortran3.tar.gz"
+    sha256 = "74f33ffdf6ede1124e07c1e7dd8628bd1725d0e91765c11e54a7f60a87b3d35d"
+    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+1/Libxc.v6.0.0.x86_64-linux-musl.tar.gz"
 [[Libxc]]
 arch = "x86_64"
-git-tree-sha1 = "58aef7e2169849e7e9d6b8b1f92c2d436f8757bf"
-libc = "musl"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[Libxc.download]]
-    sha256 = "4983ccda1dc5b61b47fe843fc40e5e460b75e352eec506338bd3431fc2dd762e"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+0/Libxc.v6.0.0.x86_64-linux-musl-libgfortran4.tar.gz"
-[[Libxc]]
-arch = "x86_64"
-git-tree-sha1 = "0740f93b6ed4c17a3764c48cbffa4f75a623a3ce"
-libc = "musl"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[Libxc.download]]
-    sha256 = "b4ac6ebe21a6c74d6f31e686841263067a03e9101a29f4579fde325415b26f89"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+0/Libxc.v6.0.0.x86_64-linux-musl-libgfortran5.tar.gz"
-[[Libxc]]
-arch = "x86_64"
-git-tree-sha1 = "5db8d77bf4514ab3f8f94d3431b74a15e8c0ccf1"
-libgfortran_version = "3.0.0"
+git-tree-sha1 = "dd4742f60783b25ef6ad0de07a57300715333dc1"
 os = "freebsd"
 
     [[Libxc.download]]
-    sha256 = "521b7a57d15b7383ee23f24cdd34b3c6c0aacb25d0a6a2075b8bcfce48777c45"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+0/Libxc.v6.0.0.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+    sha256 = "7050ad3e9e122f590ebddcdc43e01baaf27469a50b9eaa6c2507c910f99b6559"
+    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+1/Libxc.v6.0.0.x86_64-unknown-freebsd.tar.gz"
 [[Libxc]]
 arch = "x86_64"
-git-tree-sha1 = "9c3074688b7c93c5913e70015f17eb59fdba47b4"
-libgfortran_version = "4.0.0"
-os = "freebsd"
-
-    [[Libxc.download]]
-    sha256 = "79f9027c5bb5536f4c60cce98399b738fb3a972256428a934e965f5232551044"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+0/Libxc.v6.0.0.x86_64-unknown-freebsd-libgfortran4.tar.gz"
-[[Libxc]]
-arch = "x86_64"
-git-tree-sha1 = "a668bfc490caa7cd613f1f026832130a923e1f65"
-libgfortran_version = "5.0.0"
-os = "freebsd"
-
-    [[Libxc.download]]
-    sha256 = "9e0099a55c789df72df816f1b8ea2def3a36886798db2f2a597d888df233a5ec"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+0/Libxc.v6.0.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
-[[Libxc]]
-arch = "x86_64"
-git-tree-sha1 = "6881654d21375892c1616d9b602fd19cb7f5ad73"
-libgfortran_version = "3.0.0"
+git-tree-sha1 = "5b66b353f770b6e96df882dfe7cc410c70e2231f"
 os = "windows"
 
     [[Libxc.download]]
-    sha256 = "bc6a2b73e3a0f24e170eec82c7609250cfc4c122e4dada4068443863f3fc2d21"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+0/Libxc.v6.0.0.x86_64-w64-mingw32-libgfortran3.tar.gz"
-[[Libxc]]
-arch = "x86_64"
-git-tree-sha1 = "b2a9bab9280e7aa7ef3d0de12aba7a58bd61cfcd"
-libgfortran_version = "4.0.0"
-os = "windows"
-
-    [[Libxc.download]]
-    sha256 = "f02e454f5b8e9169e223f27ba928c3b1cde601bdb811d80450d0d696d41fb296"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+0/Libxc.v6.0.0.x86_64-w64-mingw32-libgfortran4.tar.gz"
-[[Libxc]]
-arch = "x86_64"
-git-tree-sha1 = "672accc9977e31cfaa98a988c0093b0abea1a78c"
-libgfortran_version = "5.0.0"
-os = "windows"
-
-    [[Libxc.download]]
-    sha256 = "ebfc4bd0fd7aad6adde90d905b2c55d6c2e19cc50a7de73140f744e9ecb5a554"
-    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+0/Libxc.v6.0.0.x86_64-w64-mingw32-libgfortran5.tar.gz"
+    sha256 = "40ba002057796dacdae26711129e3343cf364a7a4f2bbe48296b652ce33d7600"
+    url = "https://github.com/JuliaBinaryWrappers/Libxc_jll.jl/releases/download/Libxc-v6.0.0+1/Libxc.v6.0.0.x86_64-w64-mingw32.tar.gz"
