@@ -1,6 +1,6 @@
 name = "Libxc_jll"
 uuid = "a56a6d9d-ad03-58af-ab61-878bf78270d6"
-version = "6.0.0+1"
+version = "6.1.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
