@@ -3,12 +3,12 @@ export libxc
 
 using CompilerSupportLibraries_jll
 JLLWrappers.@generate_wrapper_header("Libxc")
-JLLWrappers.@declare_library_product(libxc, "@rpath/libxc.12.dylib")
+JLLWrappers.@declare_library_product(libxc, "@rpath/libxc.15.dylib")
 function __init__()
     JLLWrappers.@generate_init_header(CompilerSupportLibraries_jll)
     JLLWrappers.@init_library_product(
         libxc,
-        "lib/libxc.12.dylib",
+        "lib/libxc.15.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
